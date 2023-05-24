@@ -1,0 +1,75 @@
+.react-head-logo {
+    animation: App-logo-spin infinite 9s linear;
+    height: 35px;
+}
+.react-logo {
+    height: 70px;
+}
+.node-logo {
+    height: 70px;
+}
+@keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+.feature-intro {    /* EQ logo and "Spring Boot Applications" */
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+.content-section-implementation {
+    font-size: 15px;
+}
+.navbar {
+    min-height: 40px;
+    background-color: black;
+    border-radius: 0;
+    width: 100vw;
+}
+/*.navbar-collapse {
+    padding: 0px;
+}*/
+.navbar-brand {
+    padding: 7px;
+}
+h1 {
+    display: inline-block;
+    padding-left: 30px;
+}
+.source {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.first {
+    font-weight: 700;
+    color: #00d8ff;
+    font-size: 20px;
+}
+.springboot-logo {
+    height: 60px;
+    padding-top: 7px;
+}
+.postgres-logo {
+    height: 80px;
+}
+.react-link {
+    color: #00d8ff;
+}
+.sources {
+    padding-top: 20px;
+    margin: 20px;
+    float: left;
+}
+.navbar-inverse {
+    margin-bottom: 0;
+}
+.info-page {
+    width: 100vw;
+    padding: 20px;
+}
+a {
+    color: black;
+}
+a:hover {
+    color:black;
+    text-decoration: none;
+}
